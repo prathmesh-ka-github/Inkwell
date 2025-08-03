@@ -67,10 +67,12 @@ The model achieves high accuracy on the test set and effectively generalizes to 
 - TensorFlow
 - Matplotlib
 
-<img width=100 src="outputs/python.png"/>
-<img width=120 src="outputs/numpy.png"/>
-<img width=100 src="outputs/tf.png"/>
-<img width=100 src="outputs/matplotlib.png"/>
+<div>
+    <img width=100 src="outputs/python.png"/>
+    <img width=120 src="outputs/numpy.png"/>
+    <img width=100 src="outputs/tf.png"/>
+    <img width=100 src="outputs/matplotlib.png"/>
+</div>
 
 <br>
 
