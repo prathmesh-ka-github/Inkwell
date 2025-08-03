@@ -1,11 +1,14 @@
-# Inkwell 
+<h1 align=center>Inkwell </h1> 
+<h3 align=center>Handwritten digit recognition engine.</h3>
 
-### Handwritten digit recognition engine.
+<br>
+
 ![neural networks](outputs/neuralnetworks.png)
 
 This project implements a neural network model to recognize handwritten digits from the MNIST dataset. The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0–9), each of size 28x28 pixels, split into 60,000 training images and 10,000 test images.
 
-The model is trained using a feedforward neural network architecture with the following key components:
+#### The model is trained using a feedforward neural network architecture with the following key components:
+
 - Input Layer: Accepts 784 features (flattened 28x28 image)
 - Hidden Layers: 2 densly connected layers with 128 and 64 neurons respectively with ReLU activation
 - Output Layer: 10 neurons representing digit classes (0–9), using softmax activation
@@ -63,3 +66,22 @@ The model achieves high accuracy on the test set and effectively generalizes to 
 - NumPy
 - TensorFlow
 - Matplotlib
+
+<img width=100 src="outputs/python.png"/>
+<img width=120 src="outputs/numpy.png"/>
+<img width=100 src="outputs/tf.png"/>
+<img width=100 src="outputs/matplotlib.png"/>
+
+<br>
+
+### Contribute
+
+- Fork this repository.
+- Create your own branch.
+- Commit changes.
+- Submit a pull request.
+
+your code will be reviewed and request will be merged!
+
+### Appreciation
+Give this repo a star! Submit issues if you find bugs!
