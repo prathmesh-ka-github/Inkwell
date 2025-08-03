@@ -32,11 +32,14 @@ The model achieves high accuracy on the test set and effectively generalizes to 
 <div>
     <img width="300" src="outputs/output01.png"/>
     <img width="300" src="outputs/output02.png"/>
-    <img width="300" src="outputs/output03.png"/>
 </div>
 
 <div>
+    <img width="300" src="outputs/output03.png"/>
     <img width="300" src="outputs/output04.png"/>
+</div>
+
+<div>
     <img width="300" src="outputs/output05.png"/>
     <img width="300" src="outputs/output06.png"/>
 </div>
