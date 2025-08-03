@@ -1,4 +1,6 @@
-# Inkwell - Handwritten digit recognition engine.
+# Inkwell 
+
+### Handwritten digit recognition engine.
 ![neural networks](outputs/neuralnetworks.png)
 
 This project implements a neural network model to recognize handwritten digits from the MNIST dataset. The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0–9), each of size 28x28 pixels, split into 60,000 training images and 10,000 test images.
